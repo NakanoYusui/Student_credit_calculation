@@ -7,10 +7,6 @@
 
 grades = range(0,121,20)
 outcome =[]
-Progress=[]
-Trailer=[]
-Retriever=[]
-Excluded=[]
 outcome_dict=[]
 user=[]
 def writetxt():
